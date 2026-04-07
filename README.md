@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1dGo3N2FwaGNrOGE1bjZ3MnpqcnlhZzRrYW1wOTNxNzlldDM4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
+<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1dGo3N2FwaGNrOGE1bjZ3MnpqcnlhZzRrYW1wOTNxNzlldDM4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 
 ###
 
@@ -56,19 +56,23 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="35" alt="bootstrap logo"  />
 </div>
-###
+
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtikHasanSarker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AtikHasanSarker&show_icons=true&theme=tokyonight" />
+ 
   <img src="https://streak-stats.demolab.com?user=AtikHasanSarker&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AtikHasanSarker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtikHasanSarker&layout=compact&theme=tokyonight" />
 </div>
 
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/AtikHasanSarker/AtikHasanSarker/main/dist/github-contribution-grid-snake.svg" />
 
 
 ###
