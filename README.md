@@ -13,6 +13,8 @@
 
 <h4 align="left">MERN Stack Developer 👋 | Expert in JavaScript, React.js, React Native, Next.js, Redux, Node.js, Express.js | Crafting High-Performance Microservices, Scalable Web Apps with MongoDB & PostgreSQL 🌍</h4>
 
+<br/>
+
 ###
 
 <img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1dGo3N2FwaGNrOGE1bjZ3MnpqcnlhZzRrYW1wOTNxNzlldDM4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
@@ -33,7 +35,10 @@
 
 ###
 
+
 <br clear="both">
+<br>
+<br>
 
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
@@ -58,21 +63,12 @@
 </div>
 
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtikHasanSarker&show_icons=true&theme=tokyonight" />
- 
-  <img src="https://streak-stats.demolab.com?user=AtikHasanSarker&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtikHasanSarker&layout=compact&theme=tokyonight" />
-</div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AtikHasanSarker/AtikHasanSarker/main/dist/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/AtikHasanSarker/AtikHasanSarker/output/snake.svg" alt="Snake animation" />
 
 
 ###
