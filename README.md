@@ -18,7 +18,7 @@
 
 <div>
   <h2>🔗Social Links</h2>
-  <div>
+  <div style="display: flex; gap: 10px">
   <a href="www.linkedin.com/in/atik-hasan-sarker" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
   </a>
