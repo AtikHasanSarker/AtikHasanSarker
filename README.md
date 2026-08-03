@@ -37,24 +37,12 @@ I'm **Atik Hasan Sarker**, a passionate **Full Stack MERN Developer** who enjoys
 # 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://www.linkedin.com/in/atik-hasan-sarker">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://github.com/AtikHasanSarker">
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="mailto:atiksagor24@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-<a href="https://www.facebook.com/atiksagor24.50.80">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook"/>
-</a>
-
+<a href="https://www.linkedin.com/in/atik-hasan-sarker"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45"/></a>&nbsp;
+<a href="https://github.com/AtikHasanSarker"><img src="https://cdn.simpleicons.org/github" width="45"/></a>&nbsp;
+<a href="mailto:atiksagor24@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45"/></a>&nbsp;
+<a href="https://www.facebook.com/atiksagor24.50.80"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45"/></a>
 </p>
+
 
 ---
 
@@ -67,11 +55,24 @@ I'm **Atik Hasan Sarker**, a passionate **Full Stack MERN Developer** who enjoys
 - ☁️ MongoDB Database Design
 - 🚀 Scalable Backend Development
 
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,npm,vercel" />
+
+</div>
+
 ---
 
 # 🚀 Featured Projects
 
 ### 🩸 LifeDrop — Blood Donation Platform
+
+<img height="300" align="right" alt="Screenshot 2026-07-26 200539" src="https://github.com/user-attachments/assets/72d187f2-0d78-4471-b33a-c4943eabbdb4" />
 
 A full-stack blood donation platform where donors and recipients can connect easily.
 
@@ -87,33 +88,14 @@ A full-stack blood donation platform where donors and recipients can connect eas
 
 `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-> 🔗 Live Demo: https://lifedrop-client-cyan.vercel.app
-> 💻 Source Code: https://github.com/AtikHasanSarker/lifedrop-client
-
----
-
-### 💼 HireLoop — Job Portal
-
-A modern job portal that connects recruiters and job seekers with a clean and responsive interface.
-
-**✨ Features**
-
-- 🔐 Authentication
-- 👨‍💼 Employer Dashboard
-- 👨‍💻 Candidate Dashboard
-- 📄 Job Posting & Application
-- 📱 Fully Responsive
-
-**Tech Stack**
-
-`Next.js` `Node.js` `MongoDB` `Tailwind CSS`
-
-> 🔗 Live Demo: Coming Soon  
-> 💻 Source Code: https://github.com/AtikHasanSarker/hireloop-client
+- 🔗 **Live Demo:** https://lifedrop-client-cyan.vercel.app
+- 💻 **Source Code:** https://github.com/AtikHasanSarker/lifedrop-client
 
 ---
 
 ### 🎉 Evenza — Event Management Platform
+
+<img height="300" align="right" alt="Screenshot 2026-07-24 042953" src="https://github.com/user-attachments/assets/6e66eaea-b703-42db-9d71-3b4bc095a8a9" />
 
 A platform to discover, create and manage events.
 
@@ -129,18 +111,8 @@ A platform to discover, create and manage events.
 
 `Next.js` `TypeScript` `MongoDB`
 
-> 🔗 Live Demo: https://evenza-client.vercel.app
-> 💻 Source Code: https://github.com/AtikHasanSarker/evenza-client
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,npm,vercel" />
-
-</div>
+- 🔗 **Live Demo:** https://evenza-client.vercel.app
+- 💻 **Source Code:** https://github.com/AtikHasanSarker/evenza-client
 
 ---
 
@@ -169,11 +141,11 @@ A platform to discover, create and manage events.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtikHasanSarker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtikHasanSarker&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=AtikHasanSarker&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtikHasanSarker&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtikHasanSarker&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
 
