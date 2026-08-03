@@ -1,12 +1,14 @@
-<div align="center">
+![](https://visitor-badge.laobi.icu/badge?page_id=AtikHasanSarker.AtikHasanSarker)
 
+<div align="center">
+    
 <img width="100%" src="https://github.com/user-attachments/assets/9f10671a-222a-4fcd-8bd1-9bbdaa89fbc5" alt="GitHub Banner"/>
 
 </div>
 
-<div align="center">
+<br/>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=AtikHasanSarker.AtikHasanSarker)
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Atik+Hasan+Sarker;Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
@@ -14,7 +16,10 @@
 
 ---
 
+
 # 💫 About Me
+
+<img align="right" data-importer="image" height="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1dGo3N2FwaGNrOGE1bjZ3MnpqcnlhZzRrYW1wOTNxNzlldDM4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 
 Hi there! 👋
 
@@ -46,7 +51,7 @@ I'm **Atik Hasan Sarker**, a passionate **Full Stack MERN Developer** who enjoys
 </a>
 
 <a href="https://www.facebook.com/atiksagor24.50.80">
-<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" alt="Facebook"/>
 </a>
 
 </p>
@@ -82,8 +87,8 @@ A full-stack blood donation platform where donors and recipients can connect eas
 
 `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-> 🔗 Live Demo: Coming Soon  
-> 💻 Source Code: Coming Soon
+> 🔗 Live Demo: https://lifedrop-client-cyan.vercel.app
+> 💻 Source Code: https://github.com/AtikHasanSarker/lifedrop-client
 
 ---
 
@@ -104,7 +109,7 @@ A modern job portal that connects recruiters and job seekers with a clean and re
 `Next.js` `Node.js` `MongoDB` `Tailwind CSS`
 
 > 🔗 Live Demo: Coming Soon  
-> 💻 Source Code: Coming Soon
+> 💻 Source Code: https://github.com/AtikHasanSarker/hireloop-client
 
 ---
 
@@ -124,8 +129,8 @@ A platform to discover, create and manage events.
 
 `Next.js` `TypeScript` `MongoDB`
 
-> 🔗 Live Demo: Coming Soon  
-> 💻 Source Code: Coming Soon
+> 🔗 Live Demo: https://evenza-client.vercel.app
+> 💻 Source Code: https://github.com/AtikHasanSarker/evenza-client
 
 ---
 
@@ -133,7 +138,7 @@ A platform to discover, create and manage events.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,git,github,vscode,postman,npm,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,npm,vercel" />
 
 </div>
 
@@ -143,7 +148,7 @@ A platform to discover, create and manage events.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=redux,docker,prisma" />
+<img src="https://skillicons.dev/icons?i=ts,redux,docker" />
 
 </div>
 
@@ -160,17 +165,15 @@ A platform to discover, create and manage events.
 
 ---
 
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://raw.githubusercontent.com/AtikHasanSarker/AtikHasanSarker/stats-output/stats.svg" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtikHasanSarker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
 <img height="170" src="https://streak-stats.demolab.com?user=AtikHasanSarker&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://raw.githubusercontent.com/AtikHasanSarker/AtikHasanSarker/languages-output/languages.svg" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtikHasanSarker&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -181,16 +184,6 @@ A platform to discover, create and manage events.
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtikHasanSarker&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AtikHasanSarker&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true"/>
 
 </p>
 
@@ -235,16 +228,6 @@ const atik = {
 <a href="https://www.buymeacoffee.com/">
 <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
 </a>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AtikHasanSarker&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
