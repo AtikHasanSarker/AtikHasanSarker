@@ -1,151 +1,261 @@
-::: {align="left"}
-`<img src="https://visitor-badge.laobi.icu/badge?page_id=AtikHasanSarker.AtikHasanSarker" />`{=html}
-:::
+<div align="center">
 
-::: {align="center"}
-`<img width="100%" src="https://github.com/user-attachments/assets/9f10671a-222a-4fcd-8bd1-9bbdaa89fbc5" alt="GitHub Banner"/>`{=html}
-:::
+<img width="100%" src="https://github.com/user-attachments/assets/9f10671a-222a-4fcd-8bd1-9bbdaa89fbc5" alt="GitHub Banner"/>
 
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm Atik Hasan Sarker
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-Passionate Full Stack MERN Developer `<br/>`{=html} Building modern,
-responsive and scalable web applications with React, Next.js, Node.js,
-Express.js & MongoDB.
-```{=html}
-</h3>
-```
+</div>
 
-------------------------------------------------------------------------
+<div align="center">
 
-## 🚀 About Me
+![](https://visitor-badge.laobi.icu/badge?page_id=AtikHasanSarker.AtikHasanSarker)
 
--   🎓 Information Science & Library Management Student at Noakhali
-    Science and Technology University (NSTU)
--   💻 Passionate about Full Stack MERN Development
--   🌱 Currently learning **TypeScript, Next.js, Backend Architecture &
-    System Design**
--   🚀 I enjoy building real-world applications with clean and
-    maintainable code.
--   🤝 Open to collaboration and internship opportunities.
--   📫 Reach me: **atiksagor24@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Atik+Hasan+Sarker;Full+Stack+MERN+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-------------------------------------------------------------------------
+</div>
 
-## 🌐 Connect With Me
+---
 
-```{=html}
+# 💫 About Me
+
+Hi there! 👋
+
+I'm **Atik Hasan Sarker**, a passionate **Full Stack MERN Developer** who enjoys building modern, scalable and user-friendly web applications.
+
+- 🎓 Information Science & Library Management Student at **NSTU**
+- 💻 Passionate about Full Stack Development
+- 🌱 Currently learning **TypeScript, Next.js & Backend Architecture**
+- 🚀 Interested in building real-world SaaS products
+- 🤝 Open to Internship & Collaboration
+- 📫 Email: **atiksagor24@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-```
-`<a href="https://www.linkedin.com/in/atik-hasan-sarker">`{=html}`<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>`{=html}`</a>`{=html}
-`<a href="https://www.facebook.com/atiksagor24.50.80">`{=html}`<img src="https://skillicons.dev/icons?i=facebook" height="40"/>`{=html}`</a>`{=html}
-`<a href="mailto:atiksagor24@gmail.com">`{=html}`<img src="https://skillicons.dev/icons?i=gmail" height="40"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/AtikHasanSarker">`{=html}`<img src="https://skillicons.dev/icons?i=github" height="40"/>`{=html}`</a>`{=html}
-```{=html}
+
+<a href="https://www.linkedin.com/in/atik-hasan-sarker">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/AtikHasanSarker">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="mailto:atiksagor24@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://www.facebook.com/atiksagor24.50.80">
+<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+</a>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 💡 Current Focus
+# 🚀 Current Focus
 
--   ⚡ Full Stack MERN Development
--   🌱 TypeScript & Next.js
--   🔐 Authentication & Authorization
--   📦 REST API Development
--   🗄️ MongoDB Database Design
--   🚀 Deploying Scalable Applications
+- ⚡ Building Full Stack MERN Applications
+- 🌱 Learning TypeScript & Next.js
+- 🔐 Authentication & Authorization
+- 📦 REST API Development
+- ☁️ MongoDB Database Design
+- 🚀 Scalable Backend Development
 
-------------------------------------------------------------------------
+---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🩸 LifeDrop
+### 🩸 LifeDrop — Blood Donation Platform
 
-A Full Stack Blood Donation Platform.
+A full-stack blood donation platform where donors and recipients can connect easily.
 
-**Tech:** React • Node.js • Express.js • MongoDB • Tailwind CSS
+**✨ Features**
 
-### 🎉 Evenza
+- 🔐 JWT Authentication
+- 👤 Role-Based Dashboard
+- 🩸 Blood Donation Requests
+- 💰 Stripe Donation Integration
+- 📍 Bangladesh District & Upazila Support
 
-Modern Event Discovery & Management Platform.
+**Tech Stack**
 
-**Tech:** Next.js • TypeScript • MongoDB
+`Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
-### 💼 HireLoop
+> 🔗 Live Demo: Coming Soon  
+> 💻 Source Code: Coming Soon
 
-Modern Job Portal for job seekers and recruiters.
+---
 
-**Tech:** Next.js • Node.js • MongoDB • Tailwind CSS
+### 💼 HireLoop — Job Portal
 
-------------------------------------------------------------------------
+A modern job portal that connects recruiters and job seekers with a clean and responsive interface.
 
-## 💻 Tech Stack
+**✨ Features**
 
-```{=html}
+- 🔐 Authentication
+- 👨‍💼 Employer Dashboard
+- 👨‍💻 Candidate Dashboard
+- 📄 Job Posting & Application
+- 📱 Fully Responsive
+
+**Tech Stack**
+
+`Next.js` `Node.js` `MongoDB` `Tailwind CSS`
+
+> 🔗 Live Demo: Coming Soon  
+> 💻 Source Code: Coming Soon
+
+---
+
+### 🎉 Evenza — Event Management Platform
+
+A platform to discover, create and manage events.
+
+**✨ Features**
+
+- 🎫 Event Management
+- 📍 Location Support
+- 🔎 Search & Filter
+- 📅 Event Scheduling
+- 📱 Responsive Design
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `MongoDB`
+
+> 🔗 Live Demo: Coming Soon  
+> 💻 Source Code: Coming Soon
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,firebase,git,github,vscode,postman,npm,vercel" />
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=redux,docker,prisma" />
+
+</div>
+
+---
+
+# 🏆 2026 Goals
+
+- ✅ Master TypeScript
+- ✅ Build Production-Level MERN Projects
+- ✅ Learn System Design
+- ✅ Contribute to Open Source
+- ✅ Get a Full Stack Developer Internship
+- ✅ Solve 300+ Programming Problems
+
+---
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://raw.githubusercontent.com/AtikHasanSarker/AtikHasanSarker/stats-output/stats.svg" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=AtikHasanSarker&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://raw.githubusercontent.com/AtikHasanSarker/AtikHasanSarker/languages-output/languages.svg" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,postman,npm" />`{=html}
-```{=html}
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtikHasanSarker&theme=tokyo-night&hide_border=true"/>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 📊 GitHub Stats
+# 🏆 GitHub Trophies
 
-```{=html}
 <p align="center">
-```
-`<img src="https://raw.githubusercontent.com/AtikHasanSarker/AtikHasanSarker/stats-output/stats.svg" height="160"/>`{=html}
-`<img src="https://streak-stats.demolab.com?user=AtikHasanSarker&theme=dracula" height="160"/>`{=html}
-`<img src="https://raw.githubusercontent.com/AtikHasanSarker/AtikHasanSarker/languages-output/languages.svg" height="160"/>`{=html}
-```{=html}
+
+<img src="https://github-profile-trophy.vercel.app/?username=AtikHasanSarker&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true"/>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 📈 Activity Graph
+# 📅 Contribution Snake
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtikHasanSarker&theme=github-compact"/>`{=html}
-```{=html}
+
+<img src="https://raw.githubusercontent.com/AtikHasanSarker/AtikHasanSarker/output/snake.svg" alt="Snake Animation"/>
+
 </p>
+
+---
+
+# 📌 Coding Principles
+
+```javascript
+const atik = {
+    code: ["JavaScript", "TypeScript"],
+    frontend: ["React", "Next.js", "HTML", "CSS", "Tailwind CSS"],
+    backend: ["Node.js", "Express.js"],
+    database: ["MongoDB"],
+    tools: ["Git", "GitHub", "VS Code", "Postman"],
+    currentFocus: "Building scalable full-stack web applications",
+    motto: "Keep Learning • Keep Building 🚀"
+};
 ```
 
-------------------------------------------------------------------------
+---
 
-## 🐍 Contribution Snake
+# 💬 Random Dev Quote
 
-```{=html}
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+---
+
+# ☕ Support Me
+
 <p align="center">
-```
-`<img src="https://raw.githubusercontent.com/AtikHasanSarker/AtikHasanSarker/output/snake.svg"/>`{=html}
-```{=html}
+
+<a href="https://www.buymeacoffee.com/">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## ⚡ Fun Fact
+# 👀 Profile Views
 
-> I love turning ideas into real-world products and continuously
-> learning modern web technologies.
+<p align="center">
 
-------------------------------------------------------------------------
+<img src="https://komarev.com/ghpvc/?username=AtikHasanSarker&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-::: {align="center"}
-### ⭐ Thanks for visiting my profile!
+</p>
 
-If you like my work, consider giving a ⭐ to my repositories.
-:::
+---
+
+# ❤️ Thanks for Visiting
+
+<div align="center">
+
+### ⭐ If you like my projects, don't forget to star them!
+
+**Thanks for visiting my GitHub profile. Happy Coding! 🚀**
+
+</div>
