@@ -19,7 +19,7 @@
 
 # 💫 About Me
 
-<img align="right" data-importer="image" height="280" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1dGo3N2FwaGNrOGE1bjZ3MnpqcnlhZzRrYW1wOTNxNzlldDM4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
+<img align="right" data-importer="image" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTg1dGo3N2FwaGNrOGE1bjZ3MnpqcnlhZzRrYW1wOTNxNzlldDM4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 
 Hi there! 👋
 
@@ -37,12 +37,32 @@ I'm **Atik Hasan Sarker**, a passionate **Full Stack MERN Developer** who enjoys
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/atik-hasan-sarker"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45"/></a>&nbsp;
-<a href="https://github.com/AtikHasanSarker"><img src="https://cdn.simpleicons.org/github" width="45"/></a>&nbsp;
-<a href="mailto:atiksagor24@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45"/></a>&nbsp;
-<a href="https://www.facebook.com/atiksagor24.50.80"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45"/></a>
-</p>
 
+<a href="https://www.linkedin.com/in/atik-hasan-sarker">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AtikHasanSarker">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:atiksagor24@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/atiksagor24.50.80">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://my-portfolio-smoky-kappa-10.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/8801768626650">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -68,51 +88,63 @@ I'm **Atik Hasan Sarker**, a passionate **Full Stack MERN Developer** who enjoys
 
 ---
 
-# 🚀 Featured Projects
+# 🗂️ Featured Projects
 
 ### 🩸 LifeDrop — Blood Donation Platform
 
-<img height="300" align="right" alt="Screenshot 2026-07-26 200539" src="https://github.com/user-attachments/assets/72d187f2-0d78-4471-b33a-c4943eabbdb4" />
+<img height="280" align="right" alt="Screenshot 2026-07-26 200539" src="https://github.com/user-attachments/assets/72d187f2-0d78-4471-b33a-c4943eabbdb4" />
 
 A full-stack blood donation platform where donors and recipients can connect easily.
 
 **✨ Features**
-
 - 🔐 JWT Authentication
 - 👤 Role-Based Dashboard
 - 🩸 Blood Donation Requests
 - 💰 Stripe Donation Integration
 - 📍 Bangladesh District & Upazila Support
 
-**Tech Stack**
+`Next.js` `JavaScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Framer Motion` `Stripe`
 
-`Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+<p align="left">
 
-- 🔗 **Live Demo:** https://lifedrop-client-cyan.vercel.app
-- 💻 **Source Code:** https://github.com/AtikHasanSarker/lifedrop-client
+<a href="https://lifedrop-client-cyan.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/AtikHasanSarker/lifedrop-client">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 ### 🎉 Evenza — Event Management Platform
 
-<img height="300" align="right" alt="Screenshot 2026-07-24 042953" src="https://github.com/user-attachments/assets/6e66eaea-b703-42db-9d71-3b4bc095a8a9" />
+<img height="250" align="right" alt="Screenshot 2026-07-24 042953" src="https://github.com/user-attachments/assets/6e66eaea-b703-42db-9d71-3b4bc095a8a9" />
 
 A platform to discover, create and manage events.
 
 **✨ Features**
-
 - 🎫 Event Management
 - 📍 Location Support
 - 🔎 Search & Filter
 - 📅 Event Scheduling
 - 📱 Responsive Design
 
-**Tech Stack**
+`Next.js` `TypeScript` `MongoDB` `Express.js` `Tailwind CSS`
 
-`Next.js` `TypeScript` `MongoDB`
+<p align="left">
 
-- 🔗 **Live Demo:** https://evenza-client.vercel.app
-- 💻 **Source Code:** https://github.com/AtikHasanSarker/evenza-client
+<a href="https://evenza-client.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-5BC0EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/AtikHasanSarker/evenza-client">
+  <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+</a>
+
+</p>
 
 ---
 
@@ -123,17 +155,6 @@ A platform to discover, create and manage events.
 <img src="https://skillicons.dev/icons?i=ts,redux,docker" />
 
 </div>
-
----
-
-# 🏆 2026 Goals
-
-- ✅ Master TypeScript
-- ✅ Build Production-Level MERN Projects
-- ✅ Learn System Design
-- ✅ Contribute to Open Source
-- ✅ Get a Full Stack Developer Internship
-- ✅ Solve 300+ Programming Problems
 
 ---
 
