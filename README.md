@@ -152,7 +152,7 @@ A platform to discover, create and manage events.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,redux,docker" />
+<img src="https://skillicons.dev/icons?i=ts,redux,docker,postgresql,prisma" />
 
 </div>
 
