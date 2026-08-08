@@ -82,7 +82,7 @@ I'm **Atik Hasan Sarker**, a passionate **Full Stack MERN Developer** who enjoys
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,npm,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode,npm,vercel&perline=8" />
 
 </div>
 
@@ -152,7 +152,7 @@ A platform to discover, create and manage events.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,redux,docker,postgresql,prisma" />
+<img src="https://skillicons.dev/icons?i=ts,redux,docker,postgresql,prisma,postman" />
 
 </div>
 
