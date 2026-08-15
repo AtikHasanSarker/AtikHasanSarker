@@ -54,7 +54,7 @@ I'm **Atik Hasan Sarker**, a passionate **Full Stack MERN Developer** who enjoys
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://my-portfolio-smoky-kappa-10.vercel.app">
+<a href="https://atikhasan-dev.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
