@@ -161,13 +161,7 @@ A platform to discover, create and manage events.
 # 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtikHasanSarker&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=AtikHasanSarker&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtikHasanSarker&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
+<img height="180" src="https://streak-stats.demolab.com?user=AtikHasanSarker&theme=default&hide_border=true" />
 </div>
 
 ---
@@ -176,7 +170,7 @@ A platform to discover, create and manage events.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtikHasanSarker&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtikHasanSarker&theme=default&hide_border=true"/>
 
 </p>
 
