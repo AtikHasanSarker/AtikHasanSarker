@@ -161,7 +161,7 @@ A platform to discover, create and manage events.
 # 📊 GitHub Statistics
 
 <div align="center">
-<img height="180" src="https://streak-stats.demolab.com?user=AtikHasanSarker&theme=default&hide_border=true" />
+<img height="250" src="https://streak-stats.demolab.com?user=AtikHasanSarker&theme=default&hide_border=true" />
 </div>
 
 ---
