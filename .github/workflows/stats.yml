@@ -20,7 +20,7 @@ jobs:
           user: AtikHasanSarker
 
           filename: github-metrics.svg
-          theme: dracula
+          theme: alucard
 
           template: classic
           base: header, activity, community, repositories, metadata
